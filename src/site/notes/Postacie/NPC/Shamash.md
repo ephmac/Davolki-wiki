@@ -2,7 +2,9 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/postacie/npc/shamash/","dgPassFrontmatter":true}
 ---
 
-![Shamash.png|500](/img/user/Vault/Grafiki/NPC/Shamash.png)> **Rasa:** [[Rasy/Ludzie\|Człowiek]]
+![Shamash.png|500](/img/user/Vault/Grafiki/NPC/Shamash.png)
+
+> **Rasa:** [[Rasy/Ludzie\|Człowiek]]
 > **Pochodzenie:** [[Miasta/Kryształowe Jaskinie\|Kryształowe Jaskinie]]
 > **Dom:** [[Miasta/Kryształowe Jaskinie\|Kryształowe Jaskinie]]
 > **Status:** Żywy
