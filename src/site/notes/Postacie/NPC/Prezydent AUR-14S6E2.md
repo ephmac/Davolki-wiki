@@ -8,7 +8,7 @@
 > **Status:** Martwy
 > **Wiek:** ??
 > **Zawód**: Prezydent USA
-> **Organizacja:** Brak
+> **Organizacja:** Rząd USA
 
 ---
 

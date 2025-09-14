@@ -8,7 +8,7 @@
 > **Status:** Żywy
 > **Wiek:** ??
 > **Zawód**: Naukowiec
-> **Organizacja:** Instytut SI
+> **Organizacja:** [[Organizacje/Instytut SI\|Instytut SI]]
 
 ---
 

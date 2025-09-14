@@ -7,11 +7,11 @@
 > **Rasa:** [[Rasy/Ludzie\|Człowiek]]
 > **Pochodzenie:** [[Miasta/Veritas Aeternum\|Veritas Aeternum]]
 > **Dom:** [[Miasta/Veritas Aeternum\|Veritas Aeternum]]
-> **Status:** Żywy
+> **Status:** Martwy
 > **Wiek:** 34
 > **Zawód**: Psionik
 > **Organizacja:** Brak
 
 ---
 
-Uczestnik wyzwań [[Miejsca/Sześcianowe Ruiny Starego Świata\|kompleksu szkoleniowego]] [[Postacie/NPC/Artemida\|Artemidy]].
+Uczestnik wyzwań [[Miejsca/Sześcianowe Ruiny Starego Świata\|kompleksu szkoleniowego]] [[Postacie/NPC/Artemida\|Artemidy]], gdzie zginął.
