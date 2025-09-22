@@ -7,6 +7,13 @@
 
 *To nie są zasady czysto książkowe. Część rzeczy uprościłem lub zmieniłem na w moim odczuciu bardziej naturalne lub mniej irytujące. Nie zawsze w tekście informuję o modyfikacji. Obowiązują nas zasady z tej listy w pierwszej kolejności, a dopiero w drugiej z podręcznika. Jeśli jakaś modyfikacja wzbudza wasz sprzeciw lub czujecie, że jest potrzebna a nie została uwzględniona - możemy negocjować.*
 
+---
+
+#### Podstawowa zasada
+
+Nie jest niczym niezwykłym, jednak warto to jasno określić - w czasie sesji rację ma MG, nawet jak nie ma racji. Jeśli da się szybko wskazać lukę w rozumowaniu MG i uzna on swój błąd - wszystko w porządku. Jednak jeśli miałaby z tego wyniknąć dłuższa dyskusja na temat zasad - MG kieruje się intuicją i to musi być koniec tematu. Dopiero po sesji można się zastanowić jak można usprawnić zasady lub ewentualnie zrekompensować krzywdy wobec postaci, jeśli to konieczne.
+
+---
 #### [[Zasady gry/1. Podstawy gry\|1. Podstawy gry]]
 
 [[Zasady gry/1. Podstawy gry#1.1. Rundy, tury, akcje Zasady gry - spis treści 📑\|1.1. Rundy, tury, akcje]]
@@ -30,103 +37,47 @@
 [[Zasady gry/2. Obrażenia, zmęczenie, stany i leczenie#2.9. Tabela urazów Zasady gry - spis treści 📑\|2.9. Tabela urazów]]
 
 ---
+#### [[Zasady gry/3. Walka wręcz\|3. Walka wręcz]]
 
-#### [[3. Ataki i manewry\|3. Ataki i manewry]]
-
-3.1. Walka wręcz  
-3.2. Ataki dystansowe  
-3.3. Obrażenia i przebicia  
-3.4. Pancerz i AP  
-3.5. Trafienia obszarowe  
-3.6. Testy w walce (Triki, Wyśmiewanie, Zastraszanie)  
-3.7. Wsparcie (Support)  
-3.8. Rozbrojenie, Podcięcie, Tarasowanie  
-3.9. Celowanie, Pełna obrona, Dziki atak  
-3.10. Ruch w zwarciu i wycofywanie się
+[[Zasady gry/3. Walka wręcz#3.1. Atak wręcz Zasady gry - spis treści 📑\|3.1. Atak wręcz]]
+[[Zasady gry/3. Walka wręcz#3.2. Modyfikatory Zasady gry - spis treści 📑\|3.2. Modyfikatory]]
+[[Zasady gry/3. Walka wręcz#3.3. Manewry Zasady gry - spis treści 📑\|3.3. Manewry]]
 
 ---
+#### [[Zasady gry/4. Walka na dystans\|4. Walka na dystans]]
 
-#### [[4. Broń i taktyka\|4. Broń i taktyka]]
-
-4.1. Broń ciężka i pancerz ciężki  
-4.2. Strzelanie seriami i ogniem automatycznym  
-4.3. Ogień zaporowy i przygwożdżenie  
-4.4. Broń improwizowana i oblężnicza
+[[Zasady gry/4. Walka na dystans#4.1. Atak na dystans Zasady gry - spis treści 📑\|4.1. Atak na dystans]]
+[[Zasady gry/4. Walka na dystans#4.2. Modyfikatory Zasady gry - spis treści 📑\|4.2. Modyfikatory]]
+[[Zasady gry/4. Walka na dystans#4.3. Manewry Zasady gry - spis treści 📑\|4.3. Manewry]]
 
 ---
+#### [[Zasady gry/5. Moc\|5. Moc]]
 
-#### [[5. Inicjatywa i Bennies\|5. Inicjatywa i Bennies]]
-
-5.1. Inicjatywa (karty, Joker, Asy)  
-5.2. Bennies – co można nimi zrobić  
-5.3. Bennies – czego nie można
-
----
-
-#### [[6. Modyfikatory\|6. Modyfikatory]]
-
-6.1. Zasięg  
-6.2. Osłona  
-6.3. Oświetlenie i widoczność  
-6.4. Ruch i cel w zwarciu  
-6.5. Rozmiar celu  
-6.6. Skala trudności (–6 do +6)
-
-JOKERY: Postaci lub grupy, które wylosowały jokera, mogą działać w dowolnym momencie rundy, nawet przerywając akcję kogoś innego. Ponadto dodają w tej rundzie +2 do testów Cech i do obrażeń!
+[[Zasady gry/5. Moc#5.1. Aktywacja mocy i punkty mocy Zasady gry - spis treści 📑\|5.1. Aktywacja mocy i punkty mocy]]
+[[Zasady gry/5. Moc#5.2. Modyfikatory Zasady gry - spis treści 📑\|5.2. Modyfikatory]]
+[[Zasady gry/5. Moc#5.3. Manewry Zasady gry - spis treści 📑\|5.3. Manewry]]
 
 ---
+#### [[Zasady gry/6. Podróżowanie i pogoda\|6. Podróżowanie i pogoda]]
 
-#### [[7. Leczenie i odzyskiwanie sił\|7. Leczenie i odzyskiwanie sił]]
-
-7.1. Leczenie ran – test Leczenia  
-7.2. Leczenie Shakena  
-7.3. Naturalna regeneracja (dni, tygodnie)  
-7.4. Odpoczynek i powrót sił
-
----
-
-#### [[8. Podróżowanie i pogoda\|8. Podróżowanie i pogoda]]
-
-8.1. Tempo marszu i podróży (pieszo, konno)  
-8.2. Przeszkody terenowe i testy nawigacji  
-8.3. Zasoby w podróży (żywność, woda, sprzęt)  
-8.4. Pogoda – zasady ogólne  
-8.5. Pogoda – twoje własne tabele i efekty
+[[Zasady gry/6. Podróżowanie i pogoda#6.1. Rodzaj terenu i tempo podróży Zasady gry - spis treści 📑\|6.1. Rodzaj terenu i tempo podróży]]
+[[Zasady gry/6. Podróżowanie i pogoda#6.2. Pora roku i pora dnia Zasady gry - spis treści 📑\|6.2. Pora roku i pora dnia]]
+[[Zasady gry/6. Podróżowanie i pogoda#6.3. Pogoda i niebezpieczeństwo Zasady gry - spis treści 📑\|6.3. Pogoda i niebezpieczeństwo]]
+[[Zasady gry/6. Podróżowanie i pogoda#6.4. Potrzeby podróżników Zasady gry - spis treści 📑\|6.4. Potrzeby podróżników]]
 
 ---
+#### [[Zasady gry/7. Rozwój postaci\|7. Rozwój postaci]]
 
-#### [[9. Rozwój postaci\|9. Rozwój postaci]]
-
-9.1. Punkty doświadczenia (kiedy i ile)  
-9.2. Awans (co 5 PD)  
-9.3. Opcje wydawania awansów  
-9.4. Rangi i limity przewag
+[[Zasady gry/7. Rozwój postaci#7.1. Punkty doświadczenia i rangi Zasady gry - spis treści 📑\|7.1. Punkty doświadczenia i rangi]]
+[[Zasady gry/7. Rozwój postaci#7.2. Rozwinięcie Zasady gry - spis treści 📑\|7.2. Rozwinięcie]]
+[[Zasady gry/7. Rozwój postaci#7.3. Rozwój towarzyszy Zasady gry - spis treści 📑\|7.3. Rozwój towarzyszy]]
 
 ---
+#### [[Zasady gry/8. Pozostałe zasady\|8. Pozostałe zasady]]
 
-#### [[10. Nastawienie NPC\|10. Nastawienie NPC]]
-
-10.1. Skala nastawienia (od Wrogiego do Przyjaznego)  
-10.2. Rzut na reakcję (2k6 + modyfikatory)  
-10.3. Zmiany nastawienia w trakcie gry  
-10.4. Konsekwencje reakcji NPC
-
----
-
-#### [[11. FAQ – najczęstsze pytania\|11. FAQ – najczęstsze pytania]]
-
-_(tu cała lista krótkich pytań i odpowiedzi do szybkiego sprawdzania)_
-
----
-
-#### 12. Szybkie tabele
-
-- Modyfikatory ataku
-    
-- Efekty ran i Shaken
-    
-- Typowe manewry taktyczne
-    
-- Skala trudności (–6…+6)
-    
-- Skala nastawienia NPC
+[[Zasady gry/8. Pozostałe zasady#8.1. Triki Zasady gry - spis treści 📑\|8.1. Triki]]
+[[Zasady gry/8. Pozostałe zasady#8.2. Walka konna Zasady gry - spis treści 📑\|8.2. Walka konna]]
+[[Zasady gry/8. Pozostałe zasady#8.4. Nastawienie Zasady gry - spis treści 📑\|8.3. Tabela rozmiaru]]
+[[Zasady gry/8. Pozostałe zasady#8.4. Nastawienie Zasady gry - spis treści 📑\|8.4. Nastawienie]]
+[[Zasady gry/8. Pozostałe zasady#8.5. Strach, obeznanie, determinacja, ciężki pancerz Zasady gry - spis treści 📑\|8.5. Strach, obeznanie, determinacja, ciężki pancerz]]
+[[Zasady gry/8. Pozostałe zasady#8.6. Zagrożenia Zasady gry - spis treści 📑\|8.6. Zagrożenia]]
