@@ -81,3 +81,4 @@ Nie jest niczym niezwykłym, jednak warto to jasno określić - w czasie sesji r
 [[Zasady gry/8. Pozostałe zasady#8.4. Nastawienie Zasady gry - spis treści 📑\|8.4. Nastawienie]]
 [[Zasady gry/8. Pozostałe zasady#8.5. Strach, obeznanie, determinacja, ciężki pancerz Zasady gry - spis treści 📑\|8.5. Strach, obeznanie, determinacja, ciężki pancerz]]
 [[Zasady gry/8. Pozostałe zasady#8.6. Zagrożenia Zasady gry - spis treści 📑\|8.6. Zagrożenia]]
+[[Zasady gry/8. Pozostałe zasady#8.7. Szybka walka Zasady gry - spis treści 📑\|8.7. Szybka walka]]
