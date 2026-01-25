@@ -19,3 +19,5 @@ Tajemnicza, potężna osoba. Nie do końca wiadomo kim jest i czego chce, wybra�
 Potrzebuje [[Organizacje/Davolki\|Davolków]], gdyż sam nie jest w stanie skutecznie podróżować i nie jest w stanie kontrolować wszystkiego co się dzieje na [[Lore/Wyspy\|wyspach]].
 
 Zażądał od [[Organizacje/Davolki\|Davolków]] zabicia [[Postacie/NPC/Eirik Grimmar\|mutanta]] z [[Miasta/Falkenhall\|Falkenhall]], co zrobili.
+
+Po morderstwie Davolków na współzawodnikach w [[Miejsca/Sześcianowe Ruiny Starego Świata\|kompleksie szkoleniowym]] [[Postacie/NPC/Artemida\|Artemidy]] zrezygnował ze współpracy z Davolkami.

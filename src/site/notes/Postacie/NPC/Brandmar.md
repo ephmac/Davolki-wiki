@@ -14,4 +14,4 @@
 
 ---
 
-Uczestnik wyzwań [[Miejsca/Sześcianowe Ruiny Starego Świata\|kompleksu szkoleniowego]] [[Postacie/NPC/Artemida\|Artemidy]].
+Uczestnik wyzwań [[Miejsca/Sześcianowe Ruiny Starego Świata\|kompleksu szkoleniowego]] [[Postacie/NPC/Artemida\|Artemidy]], gdzie zginął.

@@ -31,7 +31,7 @@ Choć jej życie było pełne ograniczeń, Larisa dążyła do tego, by utrzyma�
 
 Larisę wyróżniają nie tylko zdolności psioniczne. Uwagę na nią na przykład zwraca wrodzona heterochromia. Jedno jej oko jest zielone, a drugie niebieskie. Posiada również tak zwany słuch absolutny. To zdolność, która znacznie zwiększa jej wrażliwość na dźwięki. Co z drugiej strony bywa dla niej utrapieniem, gdy na przykład muzyk którego słucha - fałszuje. Być może to efekt niełatwego dzieciństwa i szkolenia, jednak Larisa czuje zazdrość, gdy spotyka innych, bardziej doświadczonych psioników.
 
-Jest w relacji romantycznej z [[Postacie/Drużyna/Zikiru\|Zikiru]].
+Jest w relacji romantycznej z [[Postacie/NPC/Zikiru\|Zikiru]].
 
 ![CienAnastazji.webp|300](/img/user/Vault/Grafiki/Dru%C5%BCyna/CienAnastazji.webp)
 ![CienIgoraMarkina.webp|300](/img/user/Vault/Grafiki/Dru%C5%BCyna/CienIgoraMarkina.webp)
