@@ -1,26 +1,8 @@
 ---
-{"dg-home":false,"dg-publish":true,"permalink":"/postacie/npc/tim/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-publish":true,"cssclasses":["dgfg"],"aliases":["dfgdfgdfgdfg"],"tags":["gdfgdfg"],"permalink":"/postacie/npc/tim/","dgPassFrontmatter":true}
 ---
 
----
-npc: true
-hp: 7
-parry: 6
-toughness: 8 (2)
-pace: 6
 
-edges:
-  - Ambidextrous
-  - Alertness
-
-skills:
-  Fighting: d8
-  Shooting: d6
-  Notice: d8
-
-loot: "Czerwone kamyki x12, zardzewiały klucz"
-notes: "Boi się ognia. Ucieknie przy pierwszej ranie."
----
 
 ![tim.png|500](/img/user/Vault/Grafiki/NPC/tim.png)
 
