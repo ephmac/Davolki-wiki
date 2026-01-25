@@ -19,3 +19,7 @@ Namazu jest utalentowanym kartografem i w zamian za zasługi dla miasta nadano m
 Zaginął i [[Organizacje/Davolki\|Davolki]] przyjęły zlecenie jego odnalezienia, czego dokonali. W toku śledztwa okazało się, że współpracował z przemytnikami, dla których rysował mapy. A także z [[Postacie/NPC/Torka\|Torką]], niezbyt uczciwym kupcem.
 
 [[Postacie/NPC/Asaluhi\|Asaluhi]] próbował go przeciągnąć na swoją stronę, chociaż trudno określić powód i naturę tego wydarzenia. Zostało to przerwane przez [[Organizacje/Davolki\|Davolków]].
+
+<!--
+Karta na Foundry
+-->

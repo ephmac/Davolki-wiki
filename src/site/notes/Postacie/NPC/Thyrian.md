@@ -21,3 +21,7 @@ Potrzebuje [[Organizacje/Davolki\|Davolków]], gdyż sam nie jest w stanie skute
 Zażądał od [[Organizacje/Davolki\|Davolków]] zabicia [[Postacie/NPC/Eirik Grimmar\|mutanta]] z [[Miasta/Falkenhall\|Falkenhall]], co zrobili.
 
 Po morderstwie Davolków na współzawodnikach w [[Miejsca/Sześcianowe Ruiny Starego Świata\|kompleksie szkoleniowym]] [[Postacie/NPC/Artemida\|Artemidy]] zrezygnował ze współpracy z Davolkami.
+
+<!--
+Karta na Foundry
+-->

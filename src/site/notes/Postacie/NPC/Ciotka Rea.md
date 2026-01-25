@@ -15,3 +15,7 @@
 ---
 
 Ma posłuch w całej [[Miejsca/Korzenica\|wiosce]]. Twierdzi, że [[Miejsca/Korzenica\|Korzenicę]] chroni za pomocą mgły ich opiekun, którego nazywa bogiem wioski.
+
+<!--
+Karta na Foundry
+-->

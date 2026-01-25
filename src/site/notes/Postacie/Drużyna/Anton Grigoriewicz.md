@@ -15,3 +15,7 @@
 ---
 
 Anton był dość znanym w [[Miasta/Bunkier\|Bunkrze]] najemnikiem. Raczej nie łamie prawa ale zdarza mu się przyjąć również szemrane zadania. Jest wyjątkowo opiekuńczy w stosunku do [[Postacie/Drużyna/Inga\|Ingi]].
+
+<!--
+Karta na Foundry
+-->

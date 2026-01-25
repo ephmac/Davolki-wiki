@@ -18,4 +18,8 @@ Dr. Wiktor Pawłowicz Kasparow był w [[Miasta/Bunkier\|Bunkrze]] szanowanym spe
 
 Po zamieszkaniu w [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiniach]] zaczął eksperymentować z lokalnymi grzybami w celu stworzenia doskonałego narkotyku. W wyniku jego badań powstał Namuchomorozor (Kasparucha), silny alkohol halucynogenny. [[Organizacje/Davolki\|Davolki]] postanowiły rozdystrybuować Kasparuchę na całą wyspę.
 
-![Namuchomorozor.png](/img/user/Vault/Grafiki/Dru%C5%BCyna/Namuchomorozor.png)
+![Namuchomorozor.png|500](/img/user/Vault/Grafiki/Dru%C5%BCyna/Namuchomorozor.png)
+
+<!--
+Karta na Foundry
+-->

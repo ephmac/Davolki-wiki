@@ -15,3 +15,7 @@
 ---
 
 Asystentka i towarzyszka kartografa [[Postacie/NPC/Esperoduch Namazu Cichy Kompas\|Namazu]]. Gdy Namazu zaginął, poprosiła [[Organizacje/Davolki\|Davolków]] o jego odnalezienie.
+
+<!--
+Karta na Foundry
+-->

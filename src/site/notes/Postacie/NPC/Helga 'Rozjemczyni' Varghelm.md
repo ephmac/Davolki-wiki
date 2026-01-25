@@ -15,3 +15,7 @@
 ---
 
 Helga Varghelm jest głową swojego rodu i tym samym jednym z dwóch dyktatorów [[Miasta/Falkenhall\|Falkenhall]]. "Rozjemczyni" jest zdecydowanie ironicznym przydomkiem Helgi. Gdy matrona rodu Varghelm przechadza się po mieście milkną rozmowy, a ludzie spuszczają wzrok. Z drugiej jednak strony do jej urzędników ustawiają się kolejki, których nie da się realnie obsłużyć. Rozjemczyni wzbudza zarówno strach, podziw jak i nadzieję. Nikt do końca nie wie czemu.
+
+<!--
+Karta na Foundry
+-->

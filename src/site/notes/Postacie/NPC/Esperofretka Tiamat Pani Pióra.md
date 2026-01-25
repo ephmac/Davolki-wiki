@@ -17,3 +17,7 @@
 Tiamat jest autorką bestselerowych powieści detektywistycznych. Jej książki cieszą się takim uwielbieniem, że nadano jej przydomek Pani Pióra. A popularność wystarczyła nawet do zwycięstwa w wyborach na [[Miasta/Kryształowe Jaskinie\|Głównego Sędziego Kryształowych Jaskiń]].
 
 Prowadziła rozprawę [[Postacie/Drużyna/Jonas syn Einara\|Jonasa]], gdy został oskarżony o morderstwo [[Postacie/NPC/Szarańcza Korzonek\|Szarańczy Korzonka]]. Chociaż wina wydawała się bezsprzeczna, Tiamat z sobie tylko znanych powodów zarządziła odroczenie rozprawy.
+
+<!--
+Karta na Foundry
+-->

@@ -15,3 +15,7 @@
 ---
 
 Ojciec [[Postacie/Drużyna/Jura Davol\|Jury]] i były sierżant [[Organizacje/Protektorat\|Protektoratu]]. W wyniku utraty [[Postacie/NPC/Julianna Davol\|żony]] oraz poważnego problemu z alkoholem stał się nieprzyjemny i zgorzkniały.
+
+<!--
+Karta na Foundry
+-->

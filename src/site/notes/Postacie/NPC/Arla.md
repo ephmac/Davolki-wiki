@@ -14,3 +14,7 @@
 
 ---
 Mieszkanka [[Miejsca/Korzenica\|wioski Korzenica]]. Błagała [[Organizacje/Davolki\|Davolków]] o pomoc w uratowaniu jej dzieci. Nie otrzymała jej.
+
+<!--
+Karta na foundry
+-->

@@ -15,3 +15,7 @@
 ---
 
 Wielki górnik [[Miasta/Bunkier\|Bunkra]]. Odbywa swoją druga kadencję i zapewne - nie ostatnią. Cieszy się dużym szacunkiem ludu i poparciem [[Organizacje/Protektorat\|Protektoratu]].
+
+<!--
+Karta na Foundry
+-->

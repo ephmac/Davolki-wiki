@@ -15,3 +15,7 @@
 ---
 
 Ole jest brygadzistą zespołu [[Rasy/Gruntoki\|gruntoków]], pracuje w kopalni od kilku lat. Jest osobą, która potrafi przetrwać w najcięższych warunkach, ale jego nieufność sprawia, że jest ostrożny w kontaktach z przełożonymi. Jest również przyjacielem [[Postacie/Drużyna/Fix (INX-7856)\|Fixa]] i do niedawna był jego podwładnym.
+
+<!--
+Karta na Foundry
+-->

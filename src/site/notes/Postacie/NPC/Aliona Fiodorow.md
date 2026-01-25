@@ -17,3 +17,7 @@
 Aliona to doświadczona inżynierka kopalniana, odpowiedzialna za zabezpieczanie kopalni. Obejmuje to nadzór nad strukturą tuneli, instalacje systemów wczesnego ostrzegania przed zawaleniami, a także kontrolowanie emisji szkodliwych gazów, takich jak metan. Choć jej ciało już nie radzi sobie tak dobrze, jak kiedyś, Aliona jest niezastąpiona dzięki swojej wiedzy i doświadczeniu, które zdobywała przez dziesięciolecia pracy. Zna każdy zakamarek kopalni i potrafi przewidzieć niebezpieczeństwa, zanim jeszcze się pojawią.
 
 Ponadto przyjaźniła się ze świadomością zamieszkującą dawniej ciało Fixa, a także samego Fixa. Pomogła Fixowi się zaaklimatyzować, gdy został powołany do życia, znalazła mu pracę i otoczyła ogólną opieką.
+
+<!--
+Karta na Foundry
+-->
