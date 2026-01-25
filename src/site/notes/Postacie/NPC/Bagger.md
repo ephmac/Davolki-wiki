@@ -2,14 +2,20 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/postacie/npc/bagger/","dgPassFrontmatter":true}
 ---
 
-> **Rasa:** ??
+> **Rasa:** [[Rasy/Syntetyki\|Syntetyk]]
 > **Pochodzenie:** [[Miasta/Bunkier\|Bunkier]]
-> **Dom:** [[Miasta/Bunkier\|Bunkier]]
-> **Status:** ??
-> **Wiek:** ??
-> **Zawód**: ??
-> **Organizacja:** ??
+> **Dom:** [[Postacie/Drużyna/Fix (INX-7856)\|Fix]]
+> **Status:** Zintegrowany z umysłem [[Postacie/Drużyna/Fix (INX-7856)\|Fixa]]
+> **Wiek:** około 250
+> **Zawód**: [[Rasy/Syntetyki\|Syntetyk]] kopalniany
+> **Organizacja:** brak
 
 ---
 
-Osoba zamieszana w sprawę eksplozji w kopalni w [[Miasta/Bunkier\|Bunkrze]].
+Syntetyk Kopalniany Bagger (δ92-299) utracił swoją pamięć, możliwe, że pod przymusem. Spłacał dług którego nie pamiętał w najbardziej niebezpiecznych częściach kopalni w [Bunkrze](app://obsidian.md/Bunkier). Pracował tam około 4 lata, a sam miał prawdopodobnie około 250 lat. Próbował sobie coś przypomnieć, jednak utrzymywano go na granicy świadomości oraz w izolacji, a jego baterie ładowano jedynie na tyle, by mógł pracować. Z dawnego życia zachowała się jedynie jego gumowa kaczuszka i umiejętność jodłowania. Pomijając osoby za to odpowiedzialne ma kontakt jedynie z [[Postacie/Drużyna/Fix (INX-7856)\|Fixem]], który jest jego zarządcą na kopalni i w zasadzie nie ma żadnej świadomości historii Baggera. Bagger jednak nienawidzi [[Postacie/Drużyna/Fix (INX-7856)\|Fixa]] mając go za tego, kto go kontroluje. Wiedząc, że jest u kresu życia, opracowuje plan asymilacji swojej pamięci z pamięcią [[Postacie/Drużyna/Fix (INX-7856)\|Fixa]]. Ostatecznie atakuje go 1 lutego 1568 HE i próbuje się wgrać do jego pamięci siłą, co udaje mu się tylko częściowo. Ostatecznie nie udało mu się stać osobowością nadrzędną. Osobowości się połączyły tworząc nową świadomość.
+
+Fix-Bagger starał się przez ostatnie lata zrozumieć los Baggera, jednak starał się zachowywać ostrożność. Jego wysiłki nie przyniosły efektów. Spróbował więc innego podejścia i starał się odblokować w sobie samym starą wiedzę Baggera. Uzyskał jedynie przebłyski wspomnień spoza bunkra oraz o starym świecie. Większość danych była nieczytelna. Stało się jednak jasne, że Bagger w swoim życiu widział tunele, które nie istnieją w [Bunkrze](app://obsidian.md/Bunkier). Fix tym samym zrozumiał, że szuka w złym miejscu i należy wydostać się na powierzchnię.
+
+<!--
+Bagger nie jest syntetykiem z bunkra, a z powierzchni. Większość życia spędził w Scrapton. Został zwerbowany przez Thyriana i po pewnym czasie stał się jego prawą ręką. Podjęli decyzję o wprowadzeniu nowych agentów na wyspy i padło na mieszkańców Bunkra. Bunkier jest otwierany co 2 lata i podczas jednego z cykli Bagger dostał się do środka. Miał tam spędzić 2 lata podczas których przeprowadzi odpowiednią weryfikację potencjalnych kandydatów. Niestety, jego plan został odkryty przez agentów Aeonów, którzy w tym samym czasie przeszmuglowali do bunkra wirusa, mającego zainfekować wewnętrzne systemy bunkra oraz samego Baggera. W efekcie Agenci Aeonów otrzymali część informacji z bazy danych bunkra i uszkodzili Baggera - ale nie udało im się dowiedzieć celu jego misji ani poczynionych postępów. Bagger musiał funkcjonować w Bunkrze przy swojej szczątkowej sprawności. Ostatecznie podjął decyzję o przeniesieniu swojej świadomości do świadomości innego syntetyka, co było możliwe dzięki wcześniejszym przygotowaniom i wsparciu technicznemu Thyriana. Padło na Fixa, który po pierwsze był pod ręką, a po drugie jako młody syntetyk dobrze nadawał się do zadań jakie Bagger chciał wykonać. Nie zdecydował się jednak na skasowanie świadomości Fixa. Bagger z jednej strony robił co musiał, z drugiej jednak nie zdecydował się na morderstwo. Wybrał dłuższą i trudniejszą drogę. Od tego momentu przejmował świadomość Fixa na jedną godzinę dziennie podczas ładowania. W tym czasie wyszukiwał odpowiednie osoby, które mogły posłużyć za agentów Thyriana, które jednocześnie powinny przetrwać ataki neuroesperiozy, co było kluczowe z perspektywy komunikacji. Pomimo wielu lat opóźnienia, w końcu udało mu się skontaktować z Thyrianem i dokończyć zadanie. Wspólnie ustalili, że na razie Bagger pozostanie w umyśle Fixa jako obserwator i tymczasowo zaprzestanie przejmowania jego świadomości. Jednym z powodów było ryzyko uszkodzenia lub wręcz wykasowania świadomości Fixa w przypadku transferu do innego ciała. Wirus agentów Aeonów okazał się skuteczniejszy niż początkowo się wydawało. Thyrian daje dobre szanse na całkowite powodzenie rozdzielenia, jednak nie gwarancję.
+-->
