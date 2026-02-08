@@ -17,3 +17,8 @@
 Aktywista [[Organizacje/Bractwo Świtu\|Bractwa Świtu]]. Podchodzi bardzo serio do swojej misji, na granicy fanatyzmu. Jest otwarty wobec ludzi - ale podejrzliwie wypatruje możliwości prowokacji.
 
 Z początku jest pozytywnie nastawiony do [[Organizacje/Davolki\|Davolków]] ale ostatecznie orientuje się, że nie są szczerzy w swoich zamiarach i przestaje z nimi rozmawiać.
+
+<!--
+Figura: Nie
+Nastawienie: Niechętny
+-->

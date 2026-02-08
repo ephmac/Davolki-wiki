@@ -15,3 +15,8 @@
 ---
 
 Mieszka w obozie bandytów gdzieś w dżungli na północ od [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiń]]. Wraz ze swoim bratem [[Postacie/NPC/Ronan\|Ronanem]], obrabowała [[Postacie/NPC/Szarańcza Korzonek\|Szarańczę Korzonka]]. Nie udało im się jednak zrobić tego po cichu. Gdy uciekali przed nim przez dżunglę, natrafili na [[Organizacje/Davolki\|Davolków]], którzy źle oceniając sytuację zabili goniącą ich [[Rasy/Nekroformy\|nekroformę]]. Po fakcie przesłuchali jednak rodzeństwo, po czym puścili ich wolno.
+
+<!--
+Figura: Nie
+Nastawienie: Pomocny
+-->

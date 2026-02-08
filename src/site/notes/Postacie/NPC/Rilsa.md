@@ -17,3 +17,8 @@
 Przyjaciółka [[Postacie/NPC/Esperoduch Namazu Cichy Kompas\|Namazu]] oraz początkująca poetka. Pracuje na straganie [[Postacie/NPC/Torka\|Torki]].
 
 Próbowała śledzić [[Organizacje/Davolki\|Davolków]], by z nimi porozmawiać na temat [[Postacie/NPC/Esperoduch Namazu Cichy Kompas\|Namazu]]. Jednak została dostrzeżona i zaatakowana przez [[Postacie/Drużyna/Jonas syn Einara\|Jonasa]] paralizatorem.
+
+<!--
+Figura: Nie
+Nastawienie: Niechętny
+-->

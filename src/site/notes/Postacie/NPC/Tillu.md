@@ -15,3 +15,8 @@
 ---
 
 Kobieta, z którą romans ma prezydent [[Postacie/NPC/Zababa\|Zababa]]. Jest zamężna, więc zależy jej na tym aby się to nie wydało. [[Postacie/Drużyna/Jonas syn Einara\|Jonas]] zrobił jej zdjęcie i zaszantażował. Zapłaciła mu, a ten oddał jej zdobyte dowody.
+
+<!--
+Figura: Nie
+Nastawienie: Niechętny
+-->

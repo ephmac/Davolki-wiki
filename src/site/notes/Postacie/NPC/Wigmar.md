@@ -15,3 +15,8 @@
 ---
 
 Właściciel bardzo przyzwoitej tawerny "Kurhan i kość". Wie sporo o mieście. Pozytywnie nastawiony do [[Organizacje/Davolki\|Davolków]], między innymi ze względu na wspólne ubity interes. [[Postacie/Drużyna/Jura Davol\|Jura]] zgodził się aby Wigmar był jedynym dystrybutorem [[Postacie/Drużyna/Dr. Wiktor Kasparow\|Kasparuchy]] w [[Miasta/Falkenhall\|Falkenhall]].
+
+<!--
+Figura: Nie
+Nastawienie: Pomocny
+-->

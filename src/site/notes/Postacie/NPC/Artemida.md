@@ -15,4 +15,9 @@
 ---
 
 
-Zarządza [[Miejsca/Sześcianowe Ruiny Starego Świata\|Kompleksem Szkoleniowym Instytutu SI]]. Przyznała, że poznała poprzednie wcielenie [[Postacie/Drużyna/Fix (INX-7856)\|Fixa]] - [[Postacie/NPC/Bagger\|Baggera]]. 
+Zarządza [[Miejsca/Sześcianowe Ruiny Starego Świata\|Kompleksem Szkoleniowym Instytutu SI]]. Przyznała, że poznała poprzednie wcielenie [[Postacie/Drużyna/Fix (INX-7856)\|Fixa]] - [[Postacie/NPC/Bagger\|Baggera]].
+
+<!--
+Figura: Tak
+Nastawienie: Pomocny
+-->

@@ -17,3 +17,8 @@
 Torka jest jednym z bardziej skutecznych kupców w [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiniach]]. Posiada licencję na handel kryształami co już samo w sobie dodaje mu prestiżu. Jest również zamieszany w nieuczciwe interesy. Swojego czasu miał dość podejrzane kontakty z [[Postacie/NPC/Esperoduch Namazu Cichy Kompas\|kartografem Namazu]]. Na jego straganie pracuje również przyjaciółka [[Postacie/NPC/Esperoduch Namazu Cichy Kompas\|Namazu]] - siedemnastoletnia [[Postacie/NPC/Rilsa\|Rilsa]].
 
 Sugeruje [[Organizacje/Davolki\|Davolkom]], że powinni porzucić sprawę [[Postacie/NPC/Esperoduch Namazu Cichy Kompas\|Namazu]]. Twierdzi, że im się to opłaci. Wydaje się przy tym bardzo pewny siebie, jakby miał większe wpływy niż na to wygląda, lub koś silniejszy za mi stał.
+
+<!--
+Figura: Nie
+Nastawienie: Nieprzychylny
+-->

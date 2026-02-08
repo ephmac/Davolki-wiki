@@ -17,3 +17,8 @@
 Emerytowany najemnik. Prowadzi warsztat naprawy broni i narzędzi ale to tylko przykrywka. Tak naprawdę jest handlarzem informacjami umoczonym w różne sprawy.
 
 [[Organizacje/Davolki\|Davolki]] zostały pokierowani przez niego w złą stronę podczas śledztwa w sprawię zaginięcia [[Postacie/NPC/Esperoduch Namazu Cichy Kompas\|Namazu]], po czym uciekł, gdy się zorientowali.
+
+<!--
+Figura: Tak
+Nastawienie: Niechętny
+-->

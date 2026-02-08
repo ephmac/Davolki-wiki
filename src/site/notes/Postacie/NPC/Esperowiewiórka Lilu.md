@@ -15,3 +15,8 @@
 ---
 
 Lilu towarzyszył [[Postacie/NPC/Szarańcza Korzonek\|Szarańczy Korzonkowi]] podczas jego pobytu w dżungli w pobliżu [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiń]]. Był więc świadkiem morderstwa [[Organizacje/Davolki\|Davolków]], a przede wszystkim [[Postacie/Drużyna/Jura Davol\|Jury]], na tej nieszczęsnej [[Rasy/Nekroformy\|nekroformie]]. Brał również udział w rozprawie sądowej [[Postacie/Drużyna/Jonas syn Einara\|Jonasa]].
+
+<!--
+Figura: Nie
+Nastawienie: Nieprzychylny
+-->

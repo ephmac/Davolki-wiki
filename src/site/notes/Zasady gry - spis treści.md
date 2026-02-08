@@ -82,3 +82,5 @@ Nie jest niczym niezwykłym, jednak warto to jasno określić - w czasie sesji r
 [[Zasady gry/8. Pozostałe zasady#8.5. Strach, obeznanie, determinacja, ciężki pancerz Zasady gry - spis treści 📑\|8.5. Strach, obeznanie, determinacja, ciężki pancerz]]
 [[Zasady gry/8. Pozostałe zasady#8.6. Zagrożenia Zasady gry - spis treści 📑\|8.6. Zagrożenia]]
 [[Zasady gry/8. Pozostałe zasady#8.7. Szybka walka Zasady gry - spis treści 📑\|8.7. Szybka walka]]
+[[Zasady gry/8. Pozostałe zasady#8.8. Wypytywanie Zasady gry - spis treści 📑\|8.8. Wypytywanie]]
+[[Zasady gry/8. Pozostałe zasady#8.9. Handel Zasady gry - spis treści 📑\|8.9. Handel]]
