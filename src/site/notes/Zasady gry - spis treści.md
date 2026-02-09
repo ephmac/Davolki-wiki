@@ -73,14 +73,20 @@ Nie jest niczym niezwykłym, jednak warto to jasno określić - w czasie sesji r
 [[Zasady gry/7. Rozwój postaci#7.3. Rozwój towarzyszy Zasady gry - spis treści 📑\|7.3. Rozwój towarzyszy]]
 
 ---
-#### [[Zasady gry/8. Pozostałe zasady\|8. Pozostałe zasady]]
+#### [[Zasady gry/8. Sprzęt\|8. Sprzęt]]
 
-[[Zasady gry/8. Pozostałe zasady#8.1. Triki Zasady gry - spis treści 📑\|8.1. Triki]]
-[[Zasady gry/8. Pozostałe zasady#8.2. Walka konna Zasady gry - spis treści 📑\|8.2. Walka konna]]
-[[Zasady gry/8. Pozostałe zasady#8.4. Nastawienie Zasady gry - spis treści 📑\|8.3. Tabela rozmiaru]]
-[[Zasady gry/8. Pozostałe zasady#8.4. Nastawienie Zasady gry - spis treści 📑\|8.4. Nastawienie]]
-[[Zasady gry/8. Pozostałe zasady#8.5. Strach, obeznanie, determinacja, ciężki pancerz Zasady gry - spis treści 📑\|8.5. Strach, obeznanie, determinacja, ciężki pancerz]]
-[[Zasady gry/8. Pozostałe zasady#8.6. Zagrożenia Zasady gry - spis treści 📑\|8.6. Zagrożenia]]
-[[Zasady gry/8. Pozostałe zasady#8.7. Szybka walka Zasady gry - spis treści 📑\|8.7. Szybka walka]]
-[[Zasady gry/8. Pozostałe zasady#8.8. Wypytywanie Zasady gry - spis treści 📑\|8.8. Wypytywanie]]
-[[Zasady gry/8. Pozostałe zasady#8.9. Handel Zasady gry - spis treści 📑\|8.9. Handel]]
+[[Zasady gry/8. Sprzęt#8.1. Pancerz Zasady gry - spis treści 📑\|8.1. Pancerz]]
+[[Zasady gry/8. Sprzęt#8.2. Broń Zasady gry - spis treści 📑\|8.2. Broń]]
+
+---
+#### [[Zasady gry/9. Pozostałe zasady\|9. Pozostałe zasady]]
+
+[[Zasady gry/9. Pozostałe zasady#9.1. Triki Zasady gry - spis treści 📑\|9.1. Triki]]
+[[Zasady gry/9. Pozostałe zasady#9.2. Walka konna Zasady gry - spis treści 📑\|9.2. Walka konna]]
+[[Zasady gry/9. Pozostałe zasady#9.4. Nastawienie Zasady gry - spis treści 📑\|9.3. Tabela rozmiaru]]
+[[Zasady gry/9. Pozostałe zasady#9.4. Nastawienie Zasady gry - spis treści 📑\|9.4. Nastawienie]]
+[[Zasady gry/9. Pozostałe zasady#9.5. Strach, determinacja, ciężki pancerz Zasady gry - spis treści 📑\|9.5. Strach, determinacja, ciężki pancerz]]
+[[Zasady gry/9. Pozostałe zasady#9.6. Zagrożenia Zasady gry - spis treści 📑\|9.6. Zagrożenia]]
+[[Zasady gry/9. Pozostałe zasady#9.7. Szybka walka Zasady gry - spis treści 📑\|9.7. Szybka walka]]
+[[Zasady gry/9. Pozostałe zasady#9.8. Wypytywanie Zasady gry - spis treści 📑\|9.8. Wypytywanie]]
+[[Zasady gry/9. Pozostałe zasady#9.9. Handel Zasady gry - spis treści 📑\|9.9. Handel]]
