@@ -7,7 +7,7 @@
 > **Rasa:** [[Rasy/Ludzie\|Człowiek]]
 > **Pochodzenie:** [[Miejsca/Korzenica\|Korzenica]]
 > **Dom:** [[Miejsca/Korzenica\|Korzenica]]
-> **Status:** Żywy
+> **Status:** Żywa
 > **Wiek:** 64
 > **Zawód**: Starsza wioski
 > **Organizacja:** Brak

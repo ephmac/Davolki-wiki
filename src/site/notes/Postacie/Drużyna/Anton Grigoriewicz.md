@@ -6,7 +6,7 @@
 
 > **Rasa:** [[Rasy/Ludzie\|Człowiek]]
 > **Pochodzenie:** [[Miasta/Bunkier\|Bunkier]]
-> **Dom:** [[Miasta/Kryształowe Jaskinie\|Kryształowe Jaskinie]]
+> **Dom:** [[Miejsca/Dom Davolków w Kryształowych Jaskiniach\|Dom Davolków w Kryształowych Jaskiniach]]
 > **Status:** Żywy
 > **Wiek:** 34
 > **Zawód**: Najemnik

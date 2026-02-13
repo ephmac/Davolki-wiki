@@ -13,3 +13,6 @@
 ---
 
 Dawny kompleks szkoleniowy dla [[Rasy/Syntetyki\|syntetyków]]. Dzisiaj miejsce próby dla wszystkich, którzy chcą zdobyć nagrody oferowane przez [[Postacie/NPC/Artemida\|Artemidę]].
+
+**Mieszkańcy:**
+[[Postacie/NPC/Artemida\|Artemida]]

@@ -7,7 +7,7 @@
 > **Rasa:** [[Rasy/Syntetyki\|Syntetyk]]
 > **Pochodzenie:** [[Miasta/Scrapton\|Scrapton]]
 > **Dom:** [[Miasta/Scrapton\|Scrapton]]
-> **Status:** Żywy
+> **Status:** Martwy
 > **Wiek:** 67
 > **Zawód**: Najemnik
 > **Organizacja:** Brak

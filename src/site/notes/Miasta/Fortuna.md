@@ -4,6 +4,9 @@
 
 Miasto
 
+**Mieszkańcy:**
+[[Postacie/NPC/Armand de Montclair\|Armand de Montclair]]
+
 <!--
 ![Fortuna.webp|800](/img/user/Vault/Grafiki/Lore/Fortuna.webp)
 

@@ -16,7 +16,7 @@
 
 Bankier mieszkający i pracujący w [[Miasta/Falkenhall\|Falkenhall]]. Ma pozytywne usposobienie i rzetelnie podchodzi do swojej pracy.
 
-Dał zlecenie [[Organizacje/Davolki\|Davolkom]] na odnalezienie dużego czerwonego kamienia ruin starego świata.
+Dał zlecenie [[Organizacje/Davolki\|Davolkom]] na odnalezienie dużego czerwonego kamienia ruin starego świata i zapłacił hojnie za wykonane zadanie.
 
 <!--
 Figura: Nie

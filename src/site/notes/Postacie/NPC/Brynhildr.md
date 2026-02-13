@@ -7,7 +7,7 @@
 > **Rasa:** [[Rasy/Exoformidy\|Exoformid]]
 > **Pochodzenie:** [[Miasta/Skarnheim\|Skarnheim]]
 > **Dom:** [[Miasta/Skarnheim\|Skarnheim]]
-> **Status:** Żywy
+> **Status:** Martwa
 > **Wiek:** 38
 > **Zawód**: Najemnik
 > **Organizacja:** Brak

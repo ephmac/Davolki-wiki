@@ -24,6 +24,9 @@ Falkenhall nie jest miastem dla słabych fizycznie, stąd [[Rasy/Floranci\|flora
 
 Miasto jest bogate, co jednak nie oznacza bogactwa jego mieszkańców. Jest jednak w zasadzie pozbawione skrajnej biedy. Prawie każdy ma gdzie mieszkać i co jeść, a przestępstwa powszechne w innych miejscach - w Falkenhall występują dość rzadko. Między innymi za sprawą silnego garnizonu miasta wyposażonego w liczne [[Lore/Esperion\|esperionowe]] usprawnienia. Mieszkańcy wydają się w obyciu raczej spokojni, wycofani albo nawet ascetyczni, jednak wewnątrz swoich domów w otoczeniu rodziny i przyjaciół podobne wrażenie mija. Nikt nie chce być tym, na kogo padnie czuły wzrok [[Postacie/NPC/Ulfar 'Srogie Oko' Grimwardl\|Srogiego Oka]] i nikt nie chce być szczęśliwcem, którego konflikt osobiście rozwiąże sprawiedliwa [[Postacie/NPC/Helga 'Rozjemczyni' Varghelm\|Rozjemczyni]]. Ostatecznie [[Postacie/NPC/Ulfar 'Srogie Oko' Grimwardl\|Srogie Oko]] dostał swój przydomek dzięki intuicyjnemu dostrzeganiu ludzkich słabości, a [[Postacie/NPC/Helga 'Rozjemczyni' Varghelm\|Rozjemczyni]] wyznaje zasadę, że w przypadku konfliktu najlepiej jest surowo ukarać obie strony.
 
+**Mieszkańcy:**
+[[Postacie/NPC/Baldric Tennen\|Baldric Tennen]], [[Postacie/NPC/Eckhart\|Eckhart]], [[Postacie/NPC/Freywyn\|Freywyn]], [[Postacie/NPC/Gerulf Morn\|Gerulf Morn]], [[Postacie/NPC/Griggor\|Griggor]], [[Postacie/NPC/Helga 'Rozjemczyni' Varghelm\|Helga 'Rozjemczyni' Varghelm]], [[Postacie/NPC/Hilda Vargstad\|Hilda Vargstad]], [[Postacie/NPC/Hrod\|Hrod]], [[Postacie/NPC/Ulfar 'Srogie Oko' Grimwardl\|Ulfar 'Srogie Oko' Grimwardl]], [[Postacie/NPC/Wigmar\|Wigmar]]
+
 <!--
 Przykłady imion:
 	Mężczyźni - elita: Eirik Thalgrun, Wulfric Dreimund, Sigbrand Kolvarn, Aldric Thornevald, Halrik Fenvar, Oswin Dornharth, Baldar Kurnheim, Dagrim Halberund, Fendric Stornwald, Hrodgar Velmarn

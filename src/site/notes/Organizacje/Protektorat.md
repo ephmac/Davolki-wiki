@@ -26,3 +26,6 @@ Protektorat działa z bezwzględną lojalnością wobec społecznych zasad i prz
 ##### **Rola mediatorów:**
 
 W strukturze Protektoratu funkcjonują także mediatorzy, wyspecjalizowani członkowie odpowiedzialni za rozwiązywanie konfliktów oraz prowadzenie przesłuchań. Wykorzystują oni różne metody, zarówno psychologiczne, jak i bardziej fizyczne, aby uzyskać informacje i zapewnić porządek. Mediacje mogą dotyczyć zarówno codziennych sporów, jak i bardziej poważnych naruszeń porządku publicznego.
+
+**Członkowie:**
+[[Postacie/NPC/Aleksandr Puszkov\|Aleksandr Puszkov]], [[Postacie/NPC/Artem Vladimirovicz\|Artem Vladimirovicz]], [[Postacie/NPC/Iwan Nikonov\|Iwan Nikonov]], [[Postacie/NPC/Iwan Pietrowicz\|Iwan Pietrowicz]]

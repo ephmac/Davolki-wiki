@@ -4,6 +4,9 @@
 
 Miasto
 
+**Mieszkańcy:**
+[[Postacie/NPC/Arcybiskup Carlo Mancini\|Arcybiskup Carlo Mancini]]
+
 <!--
 Miasto feudalne, skupione na produkcji żywności (ryż, rośliny strączkowe, owoce tropikalne, zwierzęta hodowlane - kury, kaczki, gęsi, kozy, świnie, kapibary, tapiry). Rządzi szlachta (panowie lasu), pracują chłopi (ród ziemi), na czele stoi monarcha (bororządca), duży wpływ obu religii esperionizmu i neochrześcijaństwa
 

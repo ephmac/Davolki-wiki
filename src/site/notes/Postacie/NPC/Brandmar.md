@@ -7,7 +7,7 @@
 > **Rasa:** [[Rasy/Ludzie\|Człowiek]]
 > **Pochodzenie:** [[Miasta/Skarnheim\|Skarnheim]]
 > **Dom:** [[Miasta/Skarnheim\|Skarnheim]]
-> **Status:** Żywy
+> **Status:** Martwy
 > **Wiek:** 42
 > **Zawód**: Technik
 > **Organizacja:** Brak

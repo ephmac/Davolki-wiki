@@ -9,3 +9,6 @@ Grimwarldowie wierzą, że należy mieć tylko jedno dziecko, najlepiej syna, kt
 W mieście Grimwarldowie na co dzień są odpowiedzialni za bezpieczeństwo i porządek wewnątrz miasta. Co oznacza zwierzchnictwo nad wojskiem i strażą miejską. Nie oznacza to jednak, że dominują militarnie nad [[Organizacje/Ród Varghelmów\|Varghelmami]]. Po pierwsze część armii pomimo tego zwierzchnictwa jest wierna [[Organizacje/Ród Varghelmów\|Varghelmom]], a po drugie sami [[Organizacje/Ród Varghelmów\|Varghelmowie]] utrzymują swoje oddziały nie wchodzące w skład regularnych oddziałów [[Miasta/Falkenhall\|miasta]].
 
 Odnieśli zwycięstwo przywracając porządek w mieście, po serii morderstw ze strony [[Postacie/NPC/Eirik Grimmar\|mutanta]]. Mają pochlebną opinię na temat [[Organizacje/Davolki\|Davolków]], ze względu na ich pomoc w tej sprawie.
+
+**Członkowie:**
+[[Postacie/NPC/Gerulf Morn\|Gerulf Morn]], [[Postacie/NPC/Hrod\|Hrod]], [[Postacie/NPC/Ulfar 'Srogie Oko' Grimwardl\|Ulfar 'Srogie Oko' Grimwardl]]

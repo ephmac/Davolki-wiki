@@ -13,3 +13,6 @@
 ---
 
 Drewniana biedna wioska w dżungli.
+
+**Mieszkańcy:**
+[[Postacie/NPC/Arla\|Arla]], [[Postacie/NPC/Ciotka Rea\|Ciotka Rea]], [[Postacie/NPC/Jarun\|Jarun]]

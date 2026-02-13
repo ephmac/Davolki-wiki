@@ -11,3 +11,9 @@ Część badaczy podejrzewa, że Cech wykorzystuje rozproszoną sieć agentów i
 Co oczywiście nie zmienia, że plotki krążą po wyspach. A niektóre przekraczają zdrowy rozsądek i okrążają Ziemię by przekroczyć go jeszcze raz. Jedna z plotek mówi, że bankierzy nie mają twarzy i  nie jedzą publicznie. Że zawsze wszędzie przebywają parami, nawet jeśli widać tylko jednego. Podobno również noszą czerwone sygnety, którymi znaczą kamienie. Jedni mówią, że mają przy sobie urządzenia, które potrafią wykrywać fałszywki bez dotykania. A jeszcze inni – że to po prostu handlarze sprzed lat, którzy zorganizowali największą maskaradę świata. Ustanowili reguły gry i obserwują, jak wszyscy się do nich dostosowują. Twierdzą, że jak wejdą do karczmy i powiedzą, że ten kawałek czerwonego plastiku to teraz 10 KK, to tak właśnie będzie i ta władza jest celem samym w sobie.
 
 Ale cokolwiek by o nich mówić – nikomu nie opłaca się ich podważać. Bez nich znowu zaczęłyby się wymiany kurczak za łopatę, a zupa za sznur. A wtedy każdy bandyta zostałby nagle ministrem finansów.
+
+**Członkowie:**
+[[Postacie/NPC/Eckhart\|Eckhart]], [[Postacie/NPC/Tiago Monteiro\|Tiago Monteiro]]
+
+**Osoby uznane za wrogów Banku:**
+[[Postacie/NPC/Alda Grimmar\|Alda Grimmar]], [[Postacie/NPC/Haldar Grimmar\|Haldar Grimmar]], [[Postacie/NPC/Sigmarin Grimmar\|Sigmarin Grimmar]]

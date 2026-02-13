@@ -4,6 +4,9 @@
 
 Miasto, w którym rządzą bogate rody kupieckie. Utrzymuje kontakt z kontynentem, jako prawdopodobnie jedyne. Można w nim spotkać ludzi z kontynentu, podobno są dziwni. Mieszka w nim niewielu syntetyków. Słynie z biurokracji.
 
+**Mieszkańcy:**
+[[Postacie/NPC/Cissus\|Cissus]], [[Postacie/NPC/Spare\|Spare]]
+
 <!--
 ![BursztynowyPort.png|800](/img/user/Vault/Grafiki/Lore/BursztynowyPort.png)
 

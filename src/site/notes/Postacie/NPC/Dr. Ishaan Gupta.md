@@ -5,7 +5,7 @@
 > **Rasa:** [[Rasy/Ludzie\|Człowiek]]
 > **Pochodzenie:** Indie
 > **Dom:** USA
-> **Status:** Żywy
+> **Status:** Martwy
 > **Wiek:** ??
 > **Zawód**: Naukowiec
 > **Organizacja:** [[Organizacje/Instytut SI\|Instytut SI]]
