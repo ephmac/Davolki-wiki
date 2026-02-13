@@ -30,7 +30,7 @@ Przykłady imion:
 	
 	Imiona żeńskie z przydomkami: Ninsun Tancerka Pustki, Ishtar Matka Burzy, Kubaba Głos Lotosu, Enhedu Srebrna Cnota, Lilitu Pieśń Ognia, Ninlil Cień Poranka, Shamhat Szept Kamienia, Zarpanit Dłoń Chmur
 	
-	Mężczyźni: Urnam, Etana, Shulgi, Zamu, Amurru, Tiru, Balatu, Ibbi, Kishar, Nabu
+	Mężczyźni: Urnam, Etana, Shulgi, Zamu, Tiru, Balatu, Nabu
 	
 	Kobiety: Ninti, Sura, Lillitu, Amatu, Dita, Bitu, Naru, Ashara, Nanna
 
