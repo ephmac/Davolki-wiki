@@ -14,6 +14,11 @@
 
 ---
 
-Jeden z bankierów w Kryształowych Jaskiniach. Jest już dość stary, przez co dość zasadniczy i nieco zmęczony.
+Jeden z [[Organizacje/Bankierzy\|bankierów]] w [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiniach]]. Jest już dość stary, przez co dość zasadniczy i nieco zmęczony.
 
 To on udziela [[Organizacje/Davolki\|Davolkom]] kredytu na zakup [[Miejsca/Dom Davolków w Kryształowych Jaskiniach\|domu]] i sugeruje aby ci udali się do banku w [[Miasta/Falkenhall\|Falkenhall]].
+
+<!--
+Figura: Nie
+Nastawienie: Neutralny
+-->

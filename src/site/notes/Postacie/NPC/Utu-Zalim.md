@@ -18,6 +18,8 @@ Utu-Zalim jest głównodowodzącym [[Organizacje/Najemnicy Kryształowych Jaski�
 
 Utu-Zalim zainteresował się śledztwem w sprawie zniknięcia [[Postacie/NPC/Esperoduch Namazu Cichy Kompas\|Namazu]]. Pomógł [[Organizacje/Davolki\|Davolkom]] w śledztwie ale w zamian oczekiwał rezultatów. Po skończonej robocie pomaga [[Postacie/Drużyna/Jonas syn Einara\|Jonasowi]] w umorzeniu zarzutów.
 
+Przyznał przed [[Organizacje/Davolki\|Davolkami]], że jest [[Organizacje/Poplecznicy Thyriana\|poplecznikiem Thyriana]] i miał za zadanie zapewnić im ułatwiony start w [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiniach]].
+
 <!--
 Karta na Foundry
 -->

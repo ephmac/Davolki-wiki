@@ -20,7 +20,7 @@ Ojciec [[Postacie/NPC/Zikiru\|Zikiru]], chociaż raczej tylko z nazwy. Przez wi�
 
 Z drugiej jednak strony, chociaż Hrod jest wyjątkowo nieprzyjemnym typem, stawianie go obok bezmózgich rzeźników byłoby błędem. Hrod nie używa przemocy bez potrzeby i jest znany z przestrzegania prawa.
 
-Zgodził się przechować [[Postacie/Drużyna/Larisa Nikonov\|Larisę]], gdy była poszukiwana przez strażników miejskich. Twierdzi jednak, że kiedyś odbierze sobie tę przysługę.
+Zgodził się przechować [[Postacie/Drużyna/Larisa Nikonov\|Larisę]], gdy była poszukiwana przez strażników miejskich. Twierdzi jednak, że kiedyś odbierze sobie tę przysługę. Ostatecznie zamienił przysługę na groźbę śmierci przy najbliższym spotkaniu po tym jak [[Postacie/Drużyna/Larisa Nikonov\|Larisa]] powiadomiła go o śmierci [[Postacie/NPC/Zikiru\|Zikiru]].
 
 <!--
 Figura: Tak

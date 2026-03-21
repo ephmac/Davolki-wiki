@@ -2,7 +2,7 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/miasta/nzuri-kivu/","dgPassFrontmatter":true}
 ---
 
-Miasto
+Pirackie miasto przybrzeżne.
 
 <!--
 (Silent harbor) Miasto pirackie, przybrzeżne. Miastem rządzi najsilniejszy kapitan aktualnie w nim przebywający i sysponujący najliczniejszą załogą i pieniędzmi. Mieszkańcy głównie handlują tym co zrabują piraci ale można w nim zdobyć także informacje. Jest też najlepszym miejscem na pozyskanie najemników lub wojowników.
